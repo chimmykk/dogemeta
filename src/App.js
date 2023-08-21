@@ -76,7 +76,7 @@ function App() {
         </a>
         <a
           className="App-link"
-          href="https://github.com/chimmykk/MemeGenerator"
+          href="https://github.com/chimmykk/Twitch-Live-Stream-and-News-Reader"
           target="_blank"
           rel="noopener noreferrer"
         >
